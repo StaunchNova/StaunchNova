@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Paschal Osunkwor and I'm very passionate about Mobile development and UI/UX designing
 
 
-⚡ I’m currently working on a 3D application in flutter
+⚡ I am currently working sporting app and also
+⚡ I am currently working on a 3D application in flutter
 
 
 
